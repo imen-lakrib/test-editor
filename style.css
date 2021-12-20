@@ -1,0 +1,48 @@
+textarea {
+    background-color: #000505;
+    color: #FEFCFD;
+    height: 300px;
+    width: 100%;
+}
+
+.btn {
+    width: 100%;
+    display: flex;
+    align-items: stretch;
+    height: 20px;
+    font-size: 20px;
+    margin: 5px;
+    padding: 20px;
+    background-color: #3B3355;
+    color: #BFCDE0;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    align-content: space-between;
+    justify-content: space-around;
+}
+
+#output {
+    background-color: #BFCDE0;
+    color: #3B3355;
+    height: 300px;
+    width: 100%;
+}
+
+.title {
+    display: flex;
+    justify-content: space-around;
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 20px;
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    font-size: 60px;
+    color: black;
+}
